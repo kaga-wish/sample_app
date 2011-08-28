@@ -1,0 +1,1 @@
+# This is the Sample Application from Ruby on rails tutorial

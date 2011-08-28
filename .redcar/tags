@@ -1,7 +1,9 @@
-1314474916
+1314565236
 Application	C:/test/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/test/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/test/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	C:/test/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	C:/test/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	C:/test/sample_app/config/application.rb	module SampleApp
 Str	C:/test/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	C:/test/sample_app/public/javascripts/prototype.js	function Type(o)
@@ -27,6 +29,7 @@ clone	C:/test/sample_app/public/javascripts/prototype.js	function clone(object)
 collect	C:/test/sample_app/public/javascripts/prototype.js	function collect(iterator, context)
 compact	C:/test/sample_app/public/javascripts/prototype.js	function compact()
 concat	C:/test/sample_app/public/javascripts/prototype.js	function concat()
+contact	C:/test/sample_app/app/controllers/pages_controller.rb	  def contact
 copy	C:/test/sample_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
 create	C:/test/sample_app/public/javascripts/prototype.js	function create()
 cssNameFor	C:/test/sample_app/public/javascripts/prototype.js	function cssNameFor(key)
@@ -75,6 +78,7 @@ grep	C:/test/sample_app/public/javascripts/prototype.js	function grep(filter, it
 gsub	C:/test/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	C:/test/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	C:/test/sample_app/public/javascripts/rails.js	function handleRemote(element)
+home	C:/test/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	C:/test/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	C:/test/sample_app/public/javascripts/prototype.js	function include(object)
 include	C:/test/sample_app/public/javascripts/prototype.js	function include(pattern)
