@@ -1,4 +1,4 @@
-1314565236
+1314569925
 Application	C:/test/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/test/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/test/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -7,6 +7,7 @@ PagesHelper	C:/test/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	C:/test/sample_app/config/application.rb	module SampleApp
 Str	C:/test/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	C:/test/sample_app/public/javascripts/prototype.js	function Type(o)
+about	C:/test/sample_app/app/controllers/pages_controller.rb	  def about
 abs	C:/test/sample_app/public/javascripts/prototype.js	function abs()
 absolutize	C:/test/sample_app/public/javascripts/prototype.js	function absolutize(element)
 addMethods	C:/test/sample_app/public/javascripts/prototype.js	function addMethods(source)
