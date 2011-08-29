@@ -1,4 +1,4 @@
-1314569925
+1314583810
 Application	C:/test/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/test/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/test/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -166,6 +166,7 @@ succ	C:/test/sample_app/public/javascripts/prototype.js	function succ()
 succ	C:/test/sample_app/public/javascripts/prototype.js	function succ()
 times	C:/test/sample_app/public/javascripts/prototype.js	function times(count)
 times	C:/test/sample_app/public/javascripts/prototype.js	function times(iterator, context)
+title	C:/test/sample_app/app/helpers/application_helper.rb	  def title
 toArray	C:/test/sample_app/public/javascripts/prototype.js	function toArray()
 toArray	C:/test/sample_app/public/javascripts/prototype.js	function toArray()
 toCSSPixels	C:/test/sample_app/public/javascripts/prototype.js	function toCSSPixels(number)
